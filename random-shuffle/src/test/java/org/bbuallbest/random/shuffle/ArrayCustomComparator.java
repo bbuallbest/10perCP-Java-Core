@@ -2,9 +2,6 @@ package org.bbuallbest.random.shuffle;
 
 import java.util.Objects;
 
-/**
- * Created by happy on 14/03/2015.
- */
 public class ArrayCustomComparator {
 
     private ArrayCustomComparator() {}

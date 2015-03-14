@@ -3,9 +3,6 @@ package org.bbuallbest.random.shuffle;
 import java.util.Arrays;
 import java.util.Objects;
 
-/**
- * Created by happy on 13/03/2015.
- */
 public class ArrayUtil {
 
     private static final int MIN_SIZE_THAT_ALLOW_SHUFFLING = 8;
